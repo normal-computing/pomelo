@@ -75,8 +75,8 @@ For further reading, please refer to our published benchmarks, technical reports
 
 Pomelo is actively developed in collaboration with:
 - Normal Computing
-- Fraunhofer IESE
 - Oxford University (formalization research collaboration)
+- Others
 
 Join our [discussion forum](https://github.com/normal-computing/pomelo/discussions) or attend our bi-weekly community meetings.
 
