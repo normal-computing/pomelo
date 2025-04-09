@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to Pomelo, an open-source initiative dedicated to advancing the state-of-the-art in DRAM specification formalization and tooling. Pomelo is part of a collaborative research partnership between Normal Computing and Fraunhofer IESE, focused on enhancing and extending the DRAMml modeling language and its associated tools.
+Welcome to Pomelo, an open-source initiative dedicated to advancing the state-of-the-art in DRAM specification formalization and tooling. Pomelo is part of a  research program at Normal Computing focused on enhancing and extending the DRAMml modeling language and its associated tools.
 
 Pomelo aims to create robust datasets, benchmarks, and automated formalization frameworks to foster research and innovation in formal methods for hardware verification.
 
@@ -12,7 +12,7 @@ The Pomelo project is structured into three primary workstreams:
 
 ### Workstream 1: Training Data and Benchmarks
 
-We leverage Fraunhofer IESE’s existing DRAMml models as high-quality "gold standard" datasets to drive advancements in formal specification techniques. Our goal is to provide the research community with openly accessible datasets and clearly defined benchmarks for evaluating automated specification formalization tools.
+We leverage existing DRAMml models as high-quality "gold standard" datasets to drive advancements in formal specification techniques. Our goal is to provide the research community with openly accessible datasets and clearly defined benchmarks for evaluating automated specification formalization tools.
 
 **Key Objectives:**
 - Curate existing DRAM specifications into structured datasets.
@@ -31,7 +31,7 @@ Pomelo is evolving the DRAMml language to broaden its applicability and expressi
 **Key Objectives:**
 - Collaborative ideation and knowledge transfer
 - Extend DRAMml with generalized abstractions and semantics
-- Incorporate community and Fraunhofer IESE’s research ideas
+- Incorporate community research ideas
 
 **Outputs:**
 - Extended DRAMml ("CHIPml") specification
@@ -40,7 +40,7 @@ Pomelo is evolving the DRAMml language to broaden its applicability and expressi
 
 ### Workstream 3: Tooling and Open-Source Development
 
-Pomelo actively develops a robust, open-source toolchain around DRAMml, focusing on simulation, verification, and test generation. Our toolkit integrates Normal Computing’s existing stimulus generators with Fraunhofer IESE’s insights and possibly the DRAMSys simulator for a seamless verification workflow.
+Pomelo actively develops a robust, open-source toolchain around DRAMml, focusing on simulation, verification, and test generation. Our toolkit integrates Normal Computing’s existing stimulus generators with community insights and possibly the DRAMSys simulator for a seamless verification workflow.
 
 **Key Objectives:**
 - Build and debug simulation and verification tooling
